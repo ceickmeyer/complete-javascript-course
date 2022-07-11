@@ -78,4 +78,3 @@ console.log(johnBMI)
 const markHigherBMI = markBMI > johnBMI;
 console.log(markHigherBMI)
 
-17 - strings
