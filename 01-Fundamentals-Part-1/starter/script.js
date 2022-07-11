@@ -62,7 +62,7 @@ console.log(fart - 1991 == fart - 2018);
 const averageAge = (ageJonas + ageSarah) / 2;
 console.log(averageAge)
  */
-
+/* 
 const markMass = 78;
 const markHeight = 1.69;
 
@@ -78,3 +78,10 @@ console.log(johnBMI)
 const markHigherBMI = markBMI > johnBMI;
 console.log(markHigherBMI)
 
+ */
+
+const firstName = "Cody";
+const job = "Teacher";
+const birthYear = "1982";
+
+console.log('fart')
